@@ -1,0 +1,7 @@
+#!/bin/bash
+sudo apt-get install \
+    mono-runtime \
+    mono-xbuild \
+    mono-dmcs \
+    libmono-windowsbase4.0-cil \
+    libmono-system-data-linq4.0-cil

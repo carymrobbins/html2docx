@@ -10,14 +10,15 @@ Setup
 -----
 
 ```bash
+cd path/to/html2docx
 # Dependencies
-sudo apt-get install mono-runtime mono-xbuild
+./install_apt_requirements
 
 # Build
-cd path/to/html2docx
 xbuild /p:Configuration=Release
 
 # Usage
-cd path/to/html2docx/html2docx/bin/Release
+cd html2docx/bin/Release
 mono html2docx.exe inputfile.html outputfile.docx
 ```
+
