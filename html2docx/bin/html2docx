@@ -1,3 +1,0 @@
-#!/bin/bash
-mono $(dirname $0)/Release/html2docx.exe $1 $2
-

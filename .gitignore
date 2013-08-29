@@ -1,12 +1,16 @@
-#User Specific
+# User Specific
 *.userprefs
 *.usertasks
 
-#Mono Project Files
+# Mono Project Files
 *.pidb
 *.resources
 test-results/
 
-#Vim files
+# Vim files
 *.swp
+
+# Build directories
+Debug/
+Release/
 
