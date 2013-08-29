@@ -11,6 +11,7 @@ Setup
 
 ```bash
 cd path/to/html2docx
+
 # Dependencies
 ./install_apt_requirements
 
