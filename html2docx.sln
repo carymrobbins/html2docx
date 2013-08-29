@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "html2docx", "html2docx\html2docx.csproj", "{B1D2B7F1-0562-42C1-AE3C-4B971ABFA633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D2B7F1-0562-42C1-AE3C-4B971ABFA633}.Debug|x86.ActiveCfg = Debug|x86
+		{B1D2B7F1-0562-42C1-AE3C-4B971ABFA633}.Debug|x86.Build.0 = Debug|x86
+		{B1D2B7F1-0562-42C1-AE3C-4B971ABFA633}.Release|x86.ActiveCfg = Release|x86
+		{B1D2B7F1-0562-42C1-AE3C-4B971ABFA633}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = html2docx\html2docx.csproj
+	EndGlobalSection
+EndGlobal
